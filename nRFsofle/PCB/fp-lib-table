@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name Additions)(type KiCad)(uri ${KIPRJMOD}/Additions.pretty)(options "")(descr ""))
+  (lib (name SofleKeyboard-footprint)(type KiCad)(uri ${KIPRJMOD}/SofleRGB.pretty)(options "")(descr ""))
+)

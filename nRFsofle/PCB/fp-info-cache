@@ -1,4 +1,25 @@
-35883903810291
+44045861816291
+Additions
+1k
+<b>RESISTOR</b>
+
+0
+2
+2
+Additions
+1uF
+
+
+0
+2
+2
+Additions
+100nF
+
+
+0
+2
+2
 Additions
 EG1206A_Switch
 
@@ -21,12 +42,26 @@ Logo
 0
 0
 Additions
+OSC_CSTCE8M00G52-R0
+
+
+0
+3
+3
+Additions
 QFP80P900X900X120-32N
 
 
 0
 32
 32
+Additions
+R502-B
+
+
+0
+8
+6
 Additions
 nRFMicro_1.4
 

@@ -2,5 +2,4 @@
   (lib (name SofleKeyboard-rescue)(type Legacy)(uri ${KIPRJMOD}/SofleKeyboard-rescue.lib)(options "")(descr ""))
   (lib (name SofleKeyboard)(type Legacy)(uri ${KIPRJMOD}/SofleKeyboard.lib)(options "")(descr ""))
   (lib (name Additions)(type Legacy)(uri ${KIPRJMOD}/Additions.lib)(options "")(descr ""))
-  (lib (name nrfmicro)(type Legacy)(uri /home/carlos/nrfmicro.lib)(options "")(descr ""))
 )

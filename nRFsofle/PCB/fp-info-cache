@@ -1,4 +1,4 @@
-44047971272291
+47314085543291
 Additions
 1k
 <b>RESISTOR</b>
@@ -13,6 +13,13 @@ Additions
 0
 2
 2
+Additions
+3x2_SPI
+
+
+0
+6
+6
 Additions
 100nF
 
@@ -61,6 +68,13 @@ R502-B
 
 0
 8
+6
+Additions
+SPI_PADS
+
+
+0
+6
 6
 Additions
 nRFMicro_1.4
